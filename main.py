@@ -1,9 +1,8 @@
 import cv2
+
 from CameraCapture import CameraCapture
 
 if __name__ == '__main__':
-    print('Hello, Naruto Project!')
-
     camera_capture = CameraCapture()
 
     while True:
